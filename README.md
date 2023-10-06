@@ -1,3 +1,8 @@
 # senai-versoes-colaboracoes
+
+
 Repositório inicial 
-Readne de exemplo
+
+Readme de exemplo
+
+lembrei do comando: git commit
